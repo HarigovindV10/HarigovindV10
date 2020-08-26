@@ -24,8 +24,8 @@ Hi there, I'm **Harigovind Valsakumar**, a **Software Engineer** from Kerala, In
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently an Software Developer with [Gadgeon](https://www.gadgeon.com/) working on C# projects;
-- 🤔 My interests are with Convoutnal nueral networks, Computer vision etc..;
-- 💼 I have a Bachelor's degree in Software Engineering;
+- 🤔 My interests are with convolutional neural networks, Computer vision etc..;
+- 💼 I have a Bachelor's degree in Computer Science and Engineering;
 - 📫 Please email via harigovindv.srt@gmail.com to reach me.
 
 
