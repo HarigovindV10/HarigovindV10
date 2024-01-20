@@ -1,16 +1,13 @@
 ### Hey 👋, I'm Harigovind Valsakumar
 
-<a href="https://www.linkedin.com/in/harigovind-valsakumar-41bb59161/">
+<a href="https://www.linkedin.com/in/harigovindvalsakumar">
   <img align="left" alt="Harigovind's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.twitter.com/HValsakumar">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+  <img align="left" alt="Harigovind's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/harigovindvalsakumar/">
   <img align="left" alt="Harigovind's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/harigovind.valsakumar.5">
-  <img align="left" alt="Harigovind's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
